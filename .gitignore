@@ -1,0 +1,10 @@
+target/
+.settings/
+.classpath
+.project
+
+.idea/
+.DS_Store
+tmp
+local.properties
+artigo-jsf-spring.iml
